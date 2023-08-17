@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "shashank sakhre",
+      "email": "shashanksakhre02@gmail.com",
+      "mobile": 758754293,
+      "address": "bhopal",
+      "services": "coffee"
+    },
+    {
+      "id": 4,
+      "name": "yash",
+      "email": "shashank@gmail.com",
+      "mobile": 1234567890,
+      "address": "indore",
+      "services": "burger"
+    },
+    {
+      "id": 5,
+      "name": "sachin",
+      "email": "sachin chef",
+      "mobile": 876545678,
+      "address": "qwertyui",
+      "services": "qwertyu"
+    }
+  ],
+  "Signup": [
+    {
+      "name": "Shashank sakhre",
+      "email": "abc@gmail.com",
+      "mobile": "123456789",
+      "password": "qwerty",
+      "id": 1
+    },
+    {
+      "name": "Anupam Jha ",
+      "email": "anupam@gmail.com",
+      "mobile": "8770330125",
+      "password": "qwerty",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
